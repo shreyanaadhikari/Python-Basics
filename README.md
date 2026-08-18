@@ -1,10 +1,9 @@
-# Foundations-for-Data-Science
+
 # 🐍 Python Basics (Learning Journal)
-> **My structured path from Python fundamentals to Data Science.**
----
+
 ## About This Repo
 
-This is my personal Python learning journal, a day-by-day log of everything I'm picking up as I build toward a career in Data Science. Each entry includes what I learned, key takeaways, and screenshots from my own practice sessions, including all the required coding tasks.
+This is my personal Python learning journal, a day-by-day log of everything I'm picking up as I build towards my career. Each entry includes what I learned, key takeaways, and screenshots from my own practice sessions, including all the required coding tasks.
 
 This repo is part of a larger learning roadmap:
 
@@ -25,12 +24,6 @@ This repo is part of a larger learning roadmap:
 
 ### ✅ Day 1 — `[Date]`
 **Topic:** 
-
-**What I covered:**
-- Installed Python / set up VS Code / Jupyter Notebook
-- `int`, `float`, `str`, `bool` — the four basic types
-- Variable naming rules and `type()` function
-- `print()` and `input()`
 
 **💡 Key ideas earned:**
 - Python is dynamically typed — you don't declare types explicitly
@@ -63,7 +56,7 @@ This repo is part of a larger learning roadmap:
 
 ## 🎯 Goal
 
-Complete Python fundamentals and move on to **NumPy, Pandas, and EDA**, building the core skills for a Data Science career.
+Complete Python fundamentals and move on to **NumPy, Pandas, and EDA**.
 
 ---
 
