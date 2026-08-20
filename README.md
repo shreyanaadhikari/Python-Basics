@@ -38,7 +38,8 @@ Then:
 <img width="1470" height="311" alt="Screenshot 2026-08-20 at 17 38 50" src="https://github.com/user-attachments/assets/8f458fe0-94aa-41c4-82fb-7841d25a5273" />
 --> Different Implementations of Python:
 <img width="1470" height="775" alt="Screenshot 2026-08-20 at 17 41 04" src="https://github.com/user-attachments/assets/638bf836-705d-4994-bd4c-94a0228a41f9" /><br>
-**Will be continuing from here tomorrow.**
+
+**#Will be continuing from here tomorrow#**
 
 
 
