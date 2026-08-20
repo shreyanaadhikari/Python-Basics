@@ -5,14 +5,7 @@
 
 This is my personal Python learning journal, a day-by-day log of everything I'm picking up as I build towards my career. Each entry includes what I learned, key takeaways, and screenshots from my own practice sessions, including all the required coding tasks.
 
-This repo is part of a larger learning roadmap:
-
-| Stage | Repo | Status |
-|-------|------|--------|
-| 🐍 Python Basics | 🟢 In Progress |
-| 📊 NumPy & Pandas | Coming soon | ⏳ |
-| 📈 Data Visualization | Coming soon | ⏳ |
-|  Machine Learning, Statistics, AI basics and many more | Coming soon | ⏳ |
+This repo is a part of a larger learning roadmap:
 
 ---
 
@@ -20,7 +13,7 @@ This repo is part of a larger learning roadmap:
 
 > Each day's entry has: what I studied, key ideas I earned, and screenshots of my actual work.
 
-------
+---
 **Video Link:** https://www.youtube.com/watch?v=K5KVEU3aaeQ
 
 ### ✅ Day 1
