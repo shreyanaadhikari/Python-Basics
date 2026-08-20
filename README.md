@@ -62,9 +62,8 @@ Then:
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-- **Python 3.x** — the language
-- **VS Code** / **Jupyter Notebook** — where I write and run code
-- **GitHub** — where I track and share my journey
+- **Python 3.x**: the language
+- **VS Code** / **Jupyter Notebook**: where I write and run code
 
 ---
 
